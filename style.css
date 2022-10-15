@@ -1,0 +1,18 @@
+body{
+
+    background-image: linear-gradient(to right, rgb(245, 242, 58),rgb(18, 122, 18), rgb(69, 69, 233));
+    
+    }
+input{
+    border-bottom: 10px;
+    border: 20rem;
+    width: 5rem; height: 1rem;
+    border-radius: 20rem;
+   
+}
+
+div{
+
+    text-align: center;
+}
+
